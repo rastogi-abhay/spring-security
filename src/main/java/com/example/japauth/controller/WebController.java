@@ -17,6 +17,8 @@ public class WebController {
 	
 	@RequestMapping("/admin")
 	public String Admin() {
+		
+		
 		return "admin";
 	}
 

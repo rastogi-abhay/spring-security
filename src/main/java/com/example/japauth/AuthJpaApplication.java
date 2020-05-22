@@ -18,3 +18,4 @@ public class AuthJpaApplication extends SpringBootServletInitializer {
         return builder.sources(AuthJpaApplication.class);
     }
 }
+//comment
